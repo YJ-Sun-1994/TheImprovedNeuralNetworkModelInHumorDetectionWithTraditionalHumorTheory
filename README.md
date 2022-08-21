@@ -1,2 +1,2 @@
 # TheImprovedNeuralNetworkModelInHumorDetectionWithTraditionalHumorTheory
-The code of paper "NativeHelper: A Bilingual Sentence Search and Recommendation Engine for Academic Writing"
+The code of paper "The improved neural network model in humor detection with traditional humor theory"
